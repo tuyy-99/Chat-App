@@ -1,0 +1,36 @@
+/* style.css - simple dark theme */
+.root {
+    -fx-font-family: "Segoe UI", Arial, sans-serif;
+    -fx-background-color: linear-gradient(to bottom, #121217, #1b1b2b);
+}
+
+.list-view {
+    -fx-background-color: transparent;
+    -fx-control-inner-background: transparent;
+    -fx-padding: 8;
+    -fx-border-color: transparent;
+    -fx-text-fill: #e6e6e6;
+}
+
+.list-cell {
+    -fx-padding: 6 8;
+    -fx-background-radius: 6;
+    -fx-border-radius: 6;
+    -fx-text-fill: #e6e6e6;
+}
+
+.text-field {
+    -fx-background-color: #2b2b3a;
+    -fx-text-fill: #f3f3f3;
+    -fx-background-radius: 6;
+    -fx-border-radius: 6;
+    -fx-padding: 6 8;
+}
+
+.button {
+    -fx-background-color: #3aa655;
+    -fx-text-fill: white;
+    -fx-background-radius: 6;
+    -fx-padding: 6 12;
+    -fx-font-weight: bold;
+}
