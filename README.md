@@ -109,11 +109,11 @@ Open multiple client windows to simulate multiple users.
 Here’s a quick look at the Java Chat App in action.
 
 ### 🟦 Login Screen
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](screenshots/image.png)
+![alt text](screenshots/image-1.png)
 
 ### 🟩 Chat Window
-![alt text](image-2.png)
+![alt text](screenshots/image-2.png)
 ---
 
 
